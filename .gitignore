@@ -1,0 +1,16 @@
+# Local source workspace
+work/
+ghostscript-9.06/
+ghostscript-9.06.tar.gz
+
+# Build output
+install/
+
+# The prebuilt binary ships via GitHub Releases, not via clone bloat
+prebuilt/gs
+prebuilt/*.gz
+
+# Editor / OS
+*.swp
+*~
+.DS_Store
