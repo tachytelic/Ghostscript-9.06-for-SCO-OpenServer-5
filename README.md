@@ -174,5 +174,5 @@ The build script in this repo is released under the MIT license — see
   — text/source → PostScript; the natural front-end to Ghostscript here.
 - [curl 7.88.1 for SCO](https://github.com/tachytelic/curl-7.88.1-for-SCO-OpenServer-5)
   — the first install on a fresh SCO box.
-- [More SCO OpenServer 5 binaries](https://tachytelic.net/2017/07/sco-openserver-5-binaries/)
+- [More SCO OpenServer 5 binaries](https://scoexpert.com/guides/sco-openserver-5-binaries/)
   — the hub.
